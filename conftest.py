@@ -18,4 +18,3 @@ def browser(request):
     yield browser
     print('\nQuitting browser for test...')
     browser.quit()
-
